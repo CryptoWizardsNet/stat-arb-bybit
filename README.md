@@ -1,5 +1,9 @@
 # Steps
 
+Steps below.
+
+Important: Ensure that you have your ByBit API Key and Secret up dated on the config_execution_api.py file once downloaded.
+
 ## Step 1
 
 Clone the repository
@@ -7,6 +11,8 @@ Clone the repository
 ```shell
 git clone https://github.com/CryptoWizardsNet/stat-arb-bybit.git statarb
 ```
+
+Update your API details from ByBit on config_execution_api.py
 
 ## Step 2
 
